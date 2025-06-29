@@ -1,0 +1,18 @@
+# 🕵️‍♂️ Image Steganography using Python
+
+This project demonstrates how to hide and extract secret messages in images using steganography. The encryption and decryption process is password-protected and works on image pixel data using a simple XOR-based encoding scheme and SHA-256 hashing.
+
+---
+
+## 🔐 Features
+
+- 🧩 **Password-Protected** Encryption/Decryption
+- 🔒 Uses **SHA-256** for password hashing
+- 🖼️ Works with **JPEG and PNG** images
+- 📥 User-friendly input/output handling (via Google Colab)
+- 🧠 Educational example of combining **image processing** and **basic cryptography**
+
+---
+
+## 📂 Project Structure
+
